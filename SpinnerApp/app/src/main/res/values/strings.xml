@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_name">COUNTRY  NAME</string>
+
+
+    <string-array name="country_arrays">
+            <item>Malaysia</item>
+            <item>India</item>
+            <item>United States</item>
+            <item>United Kingdom</item>
+            <item>Bangladesh</item>
+            <item>Sri Lanka</item>
+            <item>New Zealand</item>
+    </string-array>
+</resources>
